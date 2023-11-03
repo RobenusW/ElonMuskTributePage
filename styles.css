@@ -1,0 +1,65 @@
+.logo {
+    width: 5%;
+    height: auto;
+    position: relative;
+    bottom: 115px;
+    right: 18%;
+  
+  }
+  
+  html {
+    background-color: #990000;
+  }
+  
+  
+  .navlinks {
+    display: inline;
+    padding: 25px;
+  }
+  
+  aside {
+    float: left;
+    width: 20%;
+  }
+  
+  aside > .pushdown {
+    position: relative;
+    top: 50px;
+  } 
+  
+  header {
+    background-color: white;
+    padding: 20px;
+    width: 200%;
+    height: 150%;
+    justify-content:center; 
+    position: relative;
+    right: 225px;
+    bottom: 20px;
+  }
+  
+  .centernav {
+    position: relative;
+    right: 25%;
+  }
+  
+  .mainPhoto { 
+    position: relative;
+    left: 12%;
+    bottom: 50px;
+    justify-content: center;
+    display: block;
+    width: 30%;
+    height: auto;
+    }
+  
+    .blue {
+      background-color:  blue;
+      position: relative;
+      left: 8px;
+    }
+    
+    .nav-area {
+      position: relative;
+      right: 20%;
+    }
